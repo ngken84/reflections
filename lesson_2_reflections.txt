@@ -12,3 +12,8 @@ The staging area is kind of a middle ground between the working directory and th
 files or file changes that are in the working directory but not yet in the repository. It offers a way to 
 group files that will be committed into the repository without having to grab the entire working directory 
 or grabbing only one file at a time. 
+
+Question 3
+How can you use the staging area to make sure you have one commit per logical change
+
+Use git diff --staged to see the difference between the last commit and the files in the staging area.
