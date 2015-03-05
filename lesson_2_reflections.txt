@@ -16,4 +16,12 @@ or grabbing only one file at a time.
 Question 3
 How can you use the staging area to make sure you have one commit per logical change
 
-Use git diff --staged to see the difference between the last commit and the files in the staging area.
+Use git diff --staged to see the difference between the last commit and the files in the staging area. 
+
+Question 4
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+- Trying experimental features
+- Trying diverging solutions
+- Tring a separate version
+
