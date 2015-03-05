@@ -30,3 +30,10 @@ How do diagrams help you visualize the branch structure
 
 They help because a long list of branching commits is not easily understood by the human eye. It allows us to know clearly 
 when your code diverged into a new branch. 
+
+Question 6
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging two branches together is a single branch that contains all the changes made in both 
+branches of code. We represent them in the diagram the way we do because it is the proper representation of 
+how that code came to be. 
