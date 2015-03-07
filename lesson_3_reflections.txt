@@ -25,3 +25,9 @@ changes of another user's repository on your local machine
 Branch - a set of changes made to a repository that exists separately from the master branch of your own
 repository. Used when you want to make changes to a repository that do not affect the master branch but 
 later can be merged with other branches.
+
+Question 4
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Allows for resolution of merging conflicts between the local and remote versions of the repository
+
