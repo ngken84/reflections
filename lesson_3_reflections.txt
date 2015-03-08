@@ -37,3 +37,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 On the local master, create a new branch, make changes, push them to git hub and make a pull request. 
 Allow collaborators to comment on changes and perform the pull request if it is acceptable. 
 
+Question 6
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you are collaborating on a project and do not want to touch the master until it is approved or commented on. 
